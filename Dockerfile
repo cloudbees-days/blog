@@ -1,4 +1,4 @@
 FROM abiosoft/caddy
-EXPOSE 2015
+ENV PORT=2015
 WORKDIR /srv
 COPY public .
