@@ -1,0 +1,32 @@
+---
+title: "CloudBees Days"
+baseURL: "https://example.org/"
+theme: "zen"
+languageCode: "en-US"
+defaultContentLanguage: "en"
+pluralizelisttitles: false
+removePathAccents: true
+paginate: 10
+paginatePath: "page"
+rssLimit: 20
+
+outputs:
+  home: ["HTML","RSS", "JSON"]
+  section: ["HTML","RSS", "JSON"]
+
+params:
+  description: "Example site."
+  dateformat: "2 January, 2006"
+  favicon: "icon-64.png"
+  feedlinks: true
+  footer: "Powered by [Hugo](https://gohugo.io/) and the [Zen theme](https://github.com/frjo/hugo-theme-zen)."
+  icon: "apple-touch-icon-180.png"
+  image: "apple-touch-icon-180.png"
+  imageMaxWidth: 400
+  jquery: true
+  mobileMenu: true
+  poweredby: false
+  search: true
+  searchSize: 20
+  sidebar: true
+  submitted: true
