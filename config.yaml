@@ -1,6 +1,6 @@
 ---
 title: "CloudBees Days"
-baseURL: "https://example.org/"
+baseURL: ""
 theme: "zen"
 languageCode: "en-US"
 defaultContentLanguage: "en"
