@@ -8,6 +8,7 @@ lastmod: 2019-10-23
 
 I saw you with those two "ladies of the evening" at Elzars. Explain that. Oh Leela! You're the only person I could turn to; you're the only person who ever loved me. You guys realize you live in a sewer, right?
 
+
 Too much work. Let's burn it and say we dumped it in the sewer. I haven't felt much of anything since my guinea pig died. __That's right, baby.__ *I ain't your loverboy Flexo, the guy you love so much.* You even love anyone pretending to be him!
 
 ## Goodbye, cruel world. Goodbye, cruel lamp. Goodbye, cruel velvet drapes, lined with what would appear to be some sort of cruel muslin and the cute little pom-pom curtain pull cords. Cruel though they may be…
