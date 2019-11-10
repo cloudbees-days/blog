@@ -1,7 +1,7 @@
 ---
 title: Space Adventure 4
-date: 2019-10-23
-lastmod: 2019-10-23
+date: 2019-11-10
+lastmod: 2019-11-10
 ---
 
 # WINDMILLS DO NOT WORK THAT WAY! GOOD NIGHT!
